@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harikrishna S</h1>
 <h3 align="center">A passionate programmer and aspiring IoT specialist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvvtGgv6gfbRxVlIhzC0ctR9iZM8Orrdp83ybYrbQF_vtRgmFE1Xoj_UQ4aAABdfqd1J0&usqp=CAU">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nkdcg&label=Profile%20views&color=0e75b6&style=flat" alt="nkdcg" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -12,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harikrishna s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harikrishna s" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/harikrishna s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harikrishna s" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
